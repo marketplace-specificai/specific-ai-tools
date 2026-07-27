@@ -35,6 +35,7 @@ dev = ["pytest", "torch"]
 
 [project.urls]
 Homepage = "https://specific.ai/"
+Repository = "https://github.com/marketplace-specificai/specific-ai-tools"
 
 [tool.setuptools.packages.find]
 where = ["src"]
