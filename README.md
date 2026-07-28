@@ -10,7 +10,9 @@ adapters, and utilities for running Specific AI models outside the platform
 pip install specific-ai-tools
 
 # Optional extras
-pip install "specific-ai-tools[llamacpp]"   # local GGUF via llama-cpp-python
+pip install "specific-ai-tools[llamacpp]"  # local GGUF via llama-cpp-python
+pip install "specific-ai-tools[split]"     # split_model + compare_models_results (torch)
+pip install "specific-ai-tools[all]"       # torch + llama-cpp-python
 ```
 
 ## Packages
