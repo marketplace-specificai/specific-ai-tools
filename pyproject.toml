@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "specific-ai-tools"
-version = "0.1.0"
+version = "0.1.1"
 description = "Open toolkit for SpecificAI integrations and edge inference utilities"
 readme = "README.md"
 license = { text = "MIT" }
